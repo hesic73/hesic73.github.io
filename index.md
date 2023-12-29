@@ -4,19 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, my name is Sicheng He and I'm a master's student in University of Southern California, majoring in Computer Science. I graduated with a B.Eng in Electronic Information Science and Technology from Tsinghua University, Beijing, China in 2023.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Reinforcement Learning:** multi-agent RL, on-policy learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2023]** Fork https://github.com/yaoyao-liu/minimal-light
 
 {% include_relative _includes/publications.md %}
 
