@@ -8,7 +8,7 @@ Hello, my name is Sicheng He and I'm a master's student in University of Souther
 
 ## Research Interests
 
-- **Reinforcement Learning:** multi-agent RL, on-policy learning
+- **Reinforcement Learning**
 
 ## News
 
