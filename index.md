@@ -13,6 +13,8 @@ I am currently pursuing my Master's degree in Computer Science at the University
 
 ## News
 
+- 2024/02: I started to work as a part-time RA at [RESL](https://uscresl.org/).
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
